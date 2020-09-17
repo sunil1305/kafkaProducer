@@ -1,0 +1,7 @@
+{
+    "id": 1,
+    "broker": "localhost:",
+    "key":"90064939",
+    "topic": "Test",
+    "messages": ["{\"table\":\"test\",\"op_type\":\"U\",\"op_ts\":\"2018-02-15 15:54:48.997688\",\"current_ts\":\"2018-02-15T09:54:57.396000\",\"pos\":\"00000000210000195616\",\"before\":{\"WO_PK\":90064939,\"WO_TYPE_CODE\":\"PCK\",\"WO_CALLER_PHONE\":\"916-709-4523\",\"WO_DROPSHIP_ADDRESS_1\":\"204 \",\"INT_LAST_UPDATE_DATE\":\"2018-01-25 06:56:04\"},\"after\":{\"WO_PK\":90064939,\"WO_CALLER_PHONE\":\"916-709-4444\",\"WO_DROPSHIP_ADDRESS_1\":\"204 lammango way\",\"INT_LAST_UPDATE_DATE\":\"2018-02-15 09:54:49\"}"]
+}
